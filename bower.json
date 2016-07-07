@@ -1,0 +1,6 @@
+{
+  "name": "uswds",
+  "version": "0.9.4",
+  "main": "js/uswds.js",
+  "keywords": ["18f", "uswds", "standard", "client", "browser"]
+}
